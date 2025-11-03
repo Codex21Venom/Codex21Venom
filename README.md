@@ -6,11 +6,6 @@
        width="600" alt="Roronoa Zoro" style="border-radius:8px; margin-bottom: 20px;" />
 </p>
 
-<h3 align="center" style="margin-top: 0;">The Maverick</h3>
-<p align="center" style="margin-top: 5px;">
-  <img src="https://media.giphy.com/media/l41Yq0HjS31T642Fq/giphy.gif" width="150" alt="AI Brain" />
-</p>
-
 ---
 
 - 🔭 Currently crafting **automation projects** that merge intelligence with security  
