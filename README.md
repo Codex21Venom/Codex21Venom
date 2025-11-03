@@ -2,9 +2,10 @@
 <h3 align="center">⚡ AI/ML Engineer in the Making | 🧠 Cybersecurity Explorer | 💻 Python | Java | C </h3>
 
 <p align="center">
-  <img src="https://tenor.com/tDg2cbwKOVO.gif" 
+  <img src="https://media.tenor.com/0I5v4sK7sTMAAAAC/one-piece-zoro.gif" 
        width="600" alt="Roronoa Zoro" style="border-radius:8px; margin-bottom: 20px;" />
 </p>
+
 
 ---
 
