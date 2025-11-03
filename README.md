@@ -2,7 +2,7 @@
 <h3 align="center">⚡ AI/ML Engineer in the Making | 🧠 Cybersecurity Explorer | 💻 Python | Java | C </h3>
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/one-piece-zoro-vs-king-king-of-hell-one-piece-1062-episode-1062-gif-16340763784012771786" 
+  <img src="https://tenor.com/tDg2cbwKOVO.gif" 
        width="600" alt="Roronoa Zoro" style="border-radius:8px; margin-bottom: 20px;" />
 </p>
 
