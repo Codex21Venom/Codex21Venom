@@ -2,10 +2,14 @@
 <h3 align="center">⚡ AI/ML Engineer in the Making | 🧠 Cybersecurity Explorer | 💻 Python | Java | C </h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/0I5v4sK7sTMAAAAC/one-piece-zoro.gif" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgydHA2ZTI0emQyaWQ4YTl0bjZ4YXp3dXRhOTJmNjJtZzR2MmlmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" 
        width="600" alt="Roronoa Zoro" style="border-radius:8px; margin-bottom: 20px;" />
 </p>
 
+<h3 align="center" style="margin-top: 0;">The Maverick</h3>
+<p align="center" style="margin-top: 5px;">
+  <img src="https://media.giphy.com/media/l41Yq0HjS31T642Fq/giphy.gif" width="150" alt="AI Brain" />
+</p>
 
 ---
 
@@ -15,7 +19,7 @@
   - 🧮 **Image Encryption Tool** using pixel manipulation  
   - 🔐 **Password Strength Analyzer** based on entropy & heuristics  
   - 🧠 **HashLock**, a file encryption and integrity verification tool that uses cryptographic hashing    
-- 🧰 Tech stack: **Python**, **Java**, **C**, **TensorFlow**, **Bash**, **scikit-learn**, **NumPy**, and **Pandas**  
+- 🧰 Tech stack: **Python**, **Java**, **C**, **TensorFlow**, **Bash**, **scikit-learn**, and **NumPy/Pandas**  
 - 🎯 Solid grounding in **OOPs** and **Algorithmic Thinking**  
 - ⚙️ Blending AI, security, and creativity to solve real problems  
 - ⚡ Forever in learning mode — experimenting, breaking, fixing, and rebuilding better  
@@ -36,12 +40,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
 
   <!-- Cybersecurity / Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/353655/wireshark.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" alt="Wireshark" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
 
   <!-- IDEs / Platforms -->
@@ -55,7 +59,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex21Venom&layout=compact&theme=radical&hide_border=false&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex21Venom&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -63,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codex21Venom&theme=radical&hide_border=false" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Codex21Venom&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </p>
 
 ---
