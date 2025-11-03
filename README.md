@@ -19,7 +19,7 @@
   - 🧮 **Image Encryption Tool** using pixel manipulation  
   - 🔐 **Password Strength Analyzer** based on entropy & heuristics  
   - 🧠 **HashLock**, a file encryption and integrity verification tool that uses cryptographic hashing    
-- 🧰 Tech stack: **Python**, **Java**, **C**, **TensorFlow**, **Bash**, **scikit-learn** and **NumPy/Pandas**  
+- 🧰 Tech stack: **Python**, **Java**, **C**, **TensorFlow**, **Bash**, **scikit-learn**, **NumPy**, and **Pandas**  
 - 🎯 Solid grounding in **OOPs** and **Algorithmic Thinking**  
 - ⚙️ Blending AI, security, and creativity to solve real problems  
 - ⚡ Forever in learning mode — experimenting, breaking, fixing, and rebuilding better  
@@ -46,7 +46,6 @@
   <!-- Cybersecurity / Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/353655/wireshark.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ghidra.svg" alt="Ghidra" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
 
   <!-- IDEs / Platforms -->
@@ -60,15 +59,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex21Venom&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex21Venom&layout=compact&theme=radical&hide_border=false&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codex21Venom&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codex21Venom&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Codex21Venom&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codex21Venom&theme=radical&hide_border=false" alt="Streak Stats" />
 </p>
 
 ---
@@ -76,15 +75,13 @@
 ### 🧩 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arnab-banerjee-97984b359/)" target="_blank">
+  <a href="https://www.linkedin.com/in/arnab-banerjee-97984b359/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/Codex21Venom" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
-
----
 
 ---
 
@@ -101,4 +98,3 @@ Skilled in Python, C, and Java — with a strong base in OOPs.
 I’m all about exploring new tech, automating tedious stuff, and pushing ideas until they click.
 
 Always learning. Always building. Always a bit too curious.
-```
