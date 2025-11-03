@@ -93,3 +93,4 @@ Skilled in Python, C, and Java — with a strong base in OOPs.
 I’m all about exploring new tech, automating tedious stuff, and pushing ideas until they click.
 
 Always learning. Always building. Always a bit too curious.
+```
