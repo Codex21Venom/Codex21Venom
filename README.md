@@ -2,13 +2,8 @@
 <h3 align="center">⚡ AI/ML Engineer in the Making | 🧠 Cybersecurity Explorer | 💻 Python | Java | C </h3>
 
 <p align="center">
-  <img src="https://images5.fanpop.com/image/photos/26300000/Movie-Stills-tyler-durden-26310017-1200-783.jpg" 
+  <img src="https://tenor.com/en-GB/view/one-piece-zoro-vs-king-king-of-hell-one-piece-1062-episode-1062-gif-16340763784012771786" 
        width="600" alt="Tyler Durden" style="border-radius:8px; margin-bottom: 20px;" />
-</p>
-
-<h3 align="center" style="margin-top: 0;">The Maverick</h3>
-<p align="center" style="margin-top: 5px;">
-  <img src="https://tenor.com/en-GB/view/one-piece-zoro-vs-king-king-of-hell-one-piece-1062-episode-1062-gif-16340763784012771786" width="150" alt="AI Brain" />
 </p>
 
 ---
